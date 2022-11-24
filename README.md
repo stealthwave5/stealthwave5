@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I am Josh Lucas, an 18 year old Roblox Developer from the United Kingdom.
+I am Josh Lucas, an 18 year old Roblox Developer from the United Kingdom.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stealthwave5&count_private=true&theme=radical)
