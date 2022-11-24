@@ -4,7 +4,9 @@ I currently contribute and work on Roblox content alongside various other develo
 
 #### 📈 Some stats...
 ![Joshs GitHub stats](https://github-readme-stats.vercel.app/api?username=stealthwave5&count_private=true&theme=radical)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 #### 🌱 I am currently learning...
 - Dynamic Web Development using: Node, Express, MySql and EJS
