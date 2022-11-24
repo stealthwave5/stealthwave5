@@ -5,6 +5,15 @@ I currently contribute and work on Roblox content alongside various other develo
 #### 📈 Some stats...
 ![Joshs GitHub stats](https://github-readme-stats.vercel.app/api?username=stealthwave5&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+#### 🌱 I am currently learning...
+- Dynamic Web Development using: Node, Express, MySql and EJS
+
+#### 📫 How you can reach me...
+- Discord: stealthwave5#1550
+- Roblox: ScottFaber
+- Twitter: dev_ScottFaber
+
 <!--
 **stealthwave5/stealthwave5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
