@@ -1,4 +1,7 @@
 ### Hi there 👋
+# I am Josh Lucas, an 18 year old Roblox Developer from the United Kingdom.
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stealthwave5&count_private=true&theme=radical)
 <!--
 **stealthwave5/stealthwave5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
