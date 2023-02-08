@@ -12,6 +12,7 @@ I currently contribute and work on Roblox content alongside various other develo
 - Dynamic Web Development using: Node, Express, MySql and EJS
 
 #### 📫 How you can reach me...
+- Website: https://www.joshlucas.dev/
 - Discord: stealthwave5#1550
 - Roblox: ScottFaber
 - Twitter: dev_ScottFaber
