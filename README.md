@@ -9,7 +9,8 @@ I currently contribute and work on Roblox content alongside various other develo
 -->
 
 #### 🌱 I am currently learning...
-- Full stack Web Development using: Node, Express, MySql and EJS
+- Full stack web development using: Node, Express, MySql and EJS
+- Game development using the Unity game engine
 
 #### 📫 How you can reach me...
 - Website: https://www.joshlucas.dev/
