@@ -9,7 +9,7 @@ I currently contribute and work on Roblox content alongside various other develo
 -->
 
 #### 🌱 I am currently learning...
-- Dynamic Web Development using: Node, Express, MySql and EJS
+- Full stack Web Development using: Node, Express, MySql and EJS
 
 #### 📫 How you can reach me...
 - Website: https://www.joshlucas.dev/
