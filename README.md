@@ -14,7 +14,7 @@ I currently contribute to and work on Roblox content alongside various other dev
 
 #### 📫 How you can reach me...
 - Website: https://www.joshlucas.dev/
-- Discord: stealthwave5#1550
+- Discord: ScottFaber
 - Roblox: ScottFaber
 - Twitter: dev_ScottFaber
 
