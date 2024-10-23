@@ -1,10 +1,10 @@
 ### Hi there 👋
 I am Joshua Lucas, an 19 year old Roblox Developer from the United Kingdom.
 I currently contribute to and work on Roblox content alongside various other developers.
-
+<!--
 #### 📈 Some stats...
 ![Joshs GitHub stats](https://github-readme-stats.vercel.app/api?username=stealthwave5&count_private=true&theme=radical)
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
