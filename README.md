@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Joshua Lucas, an 19 year old Roblox Developer from the United Kingdom.
+I am Joshua Lucas, an 20 year old Roblox Developer from the United Kingdom.
 I currently contribute to and work on Roblox content alongside various other developers.
 <!--
 #### 📈 Some stats...
