@@ -8,9 +8,6 @@ I currently contribute to and work on Roblox content alongside various other dev
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-#### 🌱 I am currently learning...
-- Game development using the Unreal game engine
-
 #### 📫 How you can reach me...
 - Website: https://www.joshlucas.dev/
 - Discord: ScottFaber
